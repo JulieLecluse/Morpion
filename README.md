@@ -1,1 +1,3 @@
 # Morpion
+
+Projet vacances, découverte de GIThub et blablabla...
